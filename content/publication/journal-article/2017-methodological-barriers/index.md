@@ -2,7 +2,9 @@
 abstract: The hypothetical relationship between economic recession and the increase in suicides in Spain is subject to various arguments. In addition to the inherent complexity of capturing and explaining the underlining mechanisms that could describe this causal link, different points of contention have been be identified. The period of this association and its possible starting points, the socioeconomic determinants that may explain the variationin suicide rate, and the data sources available are the main focus of controversy. The present study aims to identify the phases of association between different periods of economic recession and suicide rates, and compare the effect of different social determinants of health that have been mentioned in previous studies.
 authors:
 - admin
-- Robert Ford
+- Jose A. Salinas-Perez
+- Maria Luisa Rodero-Cosano
+- Luis Salvador-Carulla
 date: "2017-09-01T00:00:00Z"
 doi: "10.1186/s12889-017-4702-0"
 featured: true

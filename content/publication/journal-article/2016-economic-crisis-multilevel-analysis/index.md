@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [impacta]
+projects: [impacta, shoh]
 publication: 'In *European Journal of Public Health. Oxford Academic.*'
 publication_short: "In *EUPHA, Oxford Academic*"
 publication_types:
