@@ -28,11 +28,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers, and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
-interests`:` 
+Research interests: 
 
 - Social determinants of health
 
