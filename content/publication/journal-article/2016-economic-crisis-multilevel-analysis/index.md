@@ -3,11 +3,11 @@ abstract: In this study, we use quantitative data from the project IMPACT-A, in 
 authors:
 - admin
 - Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2016-11-01T00:00:00Z"
 doi: "10.1093/eurpub/ckw169.053"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: [impacta]
@@ -15,8 +15,8 @@ publication: 'In *European Journal of Public Health. Oxford Academic.*'
 publication_short: "In *EUPHA, Oxford Academic*"
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2016-11-01T00:00:00Z"
+slides: ""
 summary: This study supports the existence of contextual effects among Spanish regions that varies the association between SES measures and health, and therefore points out the relevance of socioeconomic context in explaining the differences in individuals’ states of health.
 tags:
 - health
