@@ -12,10 +12,11 @@ image:
 # slides: example
 summary: The present work studies the changes in socioeconomic determinants of health and analyzes the evolution in this relationship for the period 2005–2014 in Spain.
 tags:
-- Deep Learning
-title: Internal Project
+- Health
+- Social Determinants
+title: Impact-A
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.centrodeestudiosandaluces.es/datos/publicaciones/Actualidad77.pdf"
 url_slides: ""
 url_video: ""
 ---
