@@ -5,7 +5,7 @@ authors:
 - Diego Gomez-Baya
 date: "2015-09-01T00:00:00Z"
 doi: "10.1111/aphw.12104"
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
