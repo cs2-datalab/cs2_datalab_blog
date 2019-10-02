@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2017-09-01T00:00:00Z"
 slides: ""
-summary: The present study aims to identify the phases of association between different periods of economic recession and suicide rates, and compare the effect of different social determinants of health that have been mentioned in previous studies.
+summary: "The present study aims to identify the phases of association between different periods of economic recession and suicide rates, and compare the effect of different social determinants of health that have been mentioned in previous studies."
 tags:
 - health
 - social determinants of health
