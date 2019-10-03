@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "headers/cs2_logo.png"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -47,4 +47,13 @@ subtitle = ""
  css_class = ""
 +++
 
-CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers, and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. 
+CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers, and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. Research interests:
+
++ Social determinants of health
++ Social sustainable development (environment, society and territory)
++ Information Retrieval
++ Complex social systems and the emergence of collective phenomena
++ Computational methods and decision support tool for policy planning
++ Efficacy and efficiency in health and social service provision
++ Communication, internet, and social networks
++ Digital humanities (digital culture and society)

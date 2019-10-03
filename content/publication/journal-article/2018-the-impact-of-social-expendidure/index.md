@@ -7,7 +7,7 @@ date: "2018-01-01T00:00:00Z"
 doi: "10.1016/j.socscimed.2018.01.006"
 featured: false
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: [sdoh]

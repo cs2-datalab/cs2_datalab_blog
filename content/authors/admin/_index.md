@@ -1,49 +1,38 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: PhD by the Complutense University of Madrid. Currently I am working as Ramón y Cajal Research Fellow in the Department of Biomedicine, Biotechnology and Public Health at the University of Cadiz. I have experience teaching courses related with statistics, quantitative methods, multivariate analysis, data analysis and sociology. My main research interests are related with quantitative research methods, social/health systems, social determinants of health, and sociology.
 email: ""
-name: Nelson Bighetti
+name: Javier Alvarez-Galvez
 organizations:
-- name: Stanford University
+- name: University of Cadiz
   url: ""
-role: Professor of Artificial Intelligence
+role: Research Fellow (Ramon y Cajal)
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jalvarezgalvez
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.es/citations?user=UfF_tycAAAAJ&hl=es&oi=ao
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
-CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers, and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. 
+PhD by the Complutense University of Madrid. Currently I am working as Ramón y Cajal Research Fellow in the Department of Biomedicine, Biotechnology and Public Health at the University of Cadiz. I have experience teaching courses related with statistics, quantitative methods, multivariate analysis, data analysis and sociology. My main research interests are related with quantitative research methods, social/health systems, social determinants of health, and sociology. Research interest:
 
-Research interests: 
++ Quantitative Social Research
++ Communication and Media
++ Applied Mathematics
++ Public Health
++ Social Policy
++ Statistics
++ Epidemiology
 
-- Social determinants of health
-
-- Social sustainable development (environment, society and territory)
-
-- Information Retrieval
-
-- Complex social systems and the emergence of collective phenomena 
-
-- Computational methods and decision support tool for policy planning 
-
-- Efficacy and efficiency in health and social service provision 
-
-- Communication, internet, and social networks 
-
-- Digital humanities (digital culture and society)
