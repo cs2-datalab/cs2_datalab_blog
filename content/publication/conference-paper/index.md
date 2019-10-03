@@ -9,33 +9,37 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 authors:
 - admin
 - Robert Ford
-date: "2017-11-01T00:00:00Z"
-doi: "10.1093/eurpub/ckx186.333"
-featured: false
+date: "2013-07-01T00:00:00Z"
+doi: ""
+featured: true
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-projects: [sdoh]
-publication: 'The *European Journal of Public Health* 27(suppl_3)'
-publication_short: "In *EJPH*"
+links:
+- name: Custom Link
+  url: http://example.org
+projects:
+- internal-project
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 publication_types:
-- "2"
-publishDate: "2017-11-01T00:00:00Z"
+- "1"
+publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- economics
-title: "Economic discrimination and health in Andalusia"
-url_code: ""
-url_dataset: ""
-url_pdf: "https://academic.oup.com/eurpub/article-pdf/27/suppl_3/ckx186.333/24182142/ckx186.333.pdf"
-url_poster: ""
+- Source Themes
+title: An example conference paper
+url_code: '#'
+url_dataset: '#'
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_poster: '#'
 url_project: ""
 url_slides: ""
-url_source: "https://academic.oup.com/eurpub/article/27/suppl_3/ckx186.333/4555947"
-url_video: ""
+url_source: '#'
+url_video: '#'
 ---
 
 {{% alert note %}}
@@ -47,3 +51,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
