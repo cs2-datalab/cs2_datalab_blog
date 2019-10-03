@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects: [impacta]
 publication: '*Social Indicators Research* 141(2):873-893'
-publication_short: "In *Social Indicators Research"
+publication_short: "In *Social Indicators Research*"
 publication_types:
 - "2"
 publishDate: "2019-01-01T00:00:00Z"

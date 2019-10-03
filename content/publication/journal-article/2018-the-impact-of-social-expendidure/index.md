@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: [sdoh]
 publication: '*Social Science & Medicine* 200'
-publication_short: "In *Social Science & Medicine"
+publication_short: "In *Social Science & Medicine*"
 publication_types:
 - "2"
 publishDate: "2018-01-01T00:00:00Z"

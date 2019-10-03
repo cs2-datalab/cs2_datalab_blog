@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects: [impacta]
 publication: '*BMC Public Health* 17(1):694'
-publication_short: "In BMC Public Health"
+publication_short: "In *BMC Public Health*"
 publication_types:
 - "2"
 publishDate: "2017-09-01T00:00:00Z"

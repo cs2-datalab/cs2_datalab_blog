@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: [sdoh]
 publication: '*BMC Public Health* 19(1)'
-publication_short: "In BMC Public Health"
+publication_short: "In *BMC Public Health*"
 publication_types:
 - "2"
 publishDate: "2019-12-01T00:00:00Z"

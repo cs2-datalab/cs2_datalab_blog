@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: ["sdoh"]
 publication: '*International Journal of Environmental Research and Public Health* 10(3):747-61'
-publication_short: "In IJERPH"
+publication_short: "In *IJERPH*"
 publication_types:
 - "2"
 publishDate: "2013-02-25T00:00:00Z"

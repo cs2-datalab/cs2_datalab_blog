@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: [sdoh]
 publication: '*Journal of Public Health* 22(4):305-311'
-publication_short: "In Journal of Public Health"
+publication_short: "In *Journal of Public Health*"
 publication_types:
 - "2"
 publishDate: "2014-04-01T00:00:00Z"

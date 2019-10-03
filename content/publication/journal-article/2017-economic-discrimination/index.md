@@ -17,8 +17,8 @@ image:
   focal_point: ""
   preview_only: false
 projects: [sdoh]
-publication: 'The European Journal of Public Health 27(suppl_3)'
-publication_short: ""
+publication: 'The *European Journal of Public Health* 27(suppl_3)'
+publication_short: "In *EJPH"
 publication_types:
 - "2"
 publishDate: "2017-11-01T00:00:00Z"
