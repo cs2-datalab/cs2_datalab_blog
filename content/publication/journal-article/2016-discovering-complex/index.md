@@ -18,12 +18,12 @@ publishDate: "2016-01-01T00:00:00Z"
 slides: ""
 summary: "This study uses an additive Bayesian Networks model to explain the complex interrelationships between health and socioeconomic determinants using complex and messy data."
 tags:
-- minority opinions
-- social contagion
-- computational sociology
-- research methods
-- agent-based modeling
-title: "Discovering complex interrelationships between socioeconomic status and health in Europe: A case study applying Bayesian Networksn"
+- socioeconomic status
+- self-rated health
+- structure discovery
+- additive bayesian networks
+- europe
+title: "Discovering complex interrelationships between socioeconomic status and health in Europe: A case study applying Bayesian Networks"
 url_code: ""
 url_dataset: ""
 url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0894439315605607
