@@ -35,6 +35,6 @@ url_pdf: https://equityhealthj.biomedcentral.com/track/pdf/10.1186/s12939-019-10
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-019-1013-3
+url_source: ""
 url_video: ""
 ---
