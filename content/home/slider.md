@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Only complexity can reduce complexity"
+  content = "(Niklas Luhmann, 1984:26)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
