@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 title: ""
-view: 1
+view: 2
 ---
 
 <img src="cs2_logo.png" alt="logo" width="500" height="500">

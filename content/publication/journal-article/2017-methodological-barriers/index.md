@@ -7,7 +7,7 @@ authors:
 - Luis Salvador-Carulla
 date: "2017-09-01T00:00:00Z"
 doi: "10.1186/s12889-017-4702-0"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
