@@ -5,7 +5,7 @@ authors:
 - Maria L Rodero-Cosano
 - Jose A. Salinas-Perez
 - Diego Gomez-Baya
-date: "2019-11-01T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: "10.1007/s11205-018-1845-z"
 featured: false
 image:
@@ -17,7 +17,7 @@ publication: '*Social Indicators Research* 141(2):873-893'
 publication_short: "In *Social Indicators Research*"
 publication_types:
 - "2"
-publishDate: "2019-11-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 slides: ""
 summary: In this study, we disentangle the complex relationship between structural and intermediary social determinants of health in Andalusia (Spain) after the period of economic downturn.
 tags:
