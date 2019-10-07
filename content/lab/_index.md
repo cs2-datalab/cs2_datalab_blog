@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: CS2 DataLab
+title: ""
 view: 1
 ---
 
