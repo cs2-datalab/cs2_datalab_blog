@@ -2,7 +2,7 @@
 abstract: "Welfare states are assumed to play a fundamental role in the protection and promotion of the health and socioeconomic well-being of citizens. However, empirical evidence on the effect of the welfare state is still contradictory. The inconsistency of the results has led researchers to a lack of consensus in defining the mechanisms that might explain the relationship between the welfare state and health. To shed some light on the current debate, we rely on individual and country data from the European Social Survey (ESS) and Eurostat to explore the direct and indirect effects of the welfare state on health inequalities in a sample of European countries. We use multilevel models to test the hypothesized impact of social expenditure on reducing health inequalities. Firstly, results show that health inequalities are lower in countries where social expenditure is higher. Secondly, the relationship between socio-economic status (SES) and health is moderated by social expenditure. The positive effect of SES on health decreases in countries where social expenditure is higher, while this effect is higher in countries with lower social expenditure. Our findings suggest that social spending has a positive impact on equalizing health conditions in Europe."
 authors:
 - admin
-- Robert Ford
+- Antonio Jaime-Castillo
 date: "2018-01-01T00:00:00Z"
 doi: "10.1016/j.socscimed.2018.01.006"
 featured: false

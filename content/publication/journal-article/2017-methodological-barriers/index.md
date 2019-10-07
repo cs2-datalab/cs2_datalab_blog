@@ -3,7 +3,7 @@ abstract: 'The hypothetical relationship between economic recession and the incr
 authors:
 - admin
 - Jose A. Salinas-Perez
-- Maria Luisa Rodero-Cosano
+- Maria L. Rodero-Cosano
 - Luis Salvador-Carulla
 date: "2017-09-01T00:00:00Z"
 doi: "10.1186/s12889-017-4702-0"

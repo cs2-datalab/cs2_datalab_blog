@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [sdoh]
+projects: ["sdoh"]
 publication: '*BMC Public Health* 19(1)'
 publication_short: "In *BMC Public Health*"
 publication_types:
@@ -23,7 +23,7 @@ tags:
 title: "Measuring the impact of multiple discrimination on depression in Europe"
 url_code: ""
 url_dataset: ""
-url_pdf: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6714-4
+url_pdf: "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6714-4"
 url_poster: ""
 url_project: ""
 url_slides: ""
