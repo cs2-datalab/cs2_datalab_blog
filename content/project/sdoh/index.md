@@ -12,8 +12,8 @@ image:
 # slides: example
 summary: Social Determinants of Health (SDoH).
 tags:
-- Health
-- Social Determinants of Health
+- health
+- social determinants of health
 title: SDoH
 url_code: ""
 url_pdf: ""
@@ -22,4 +22,4 @@ url_video: ""
 ---
 
 ### Goals
-Bla Bla
+This project focus on the study of social inequalities in health.
