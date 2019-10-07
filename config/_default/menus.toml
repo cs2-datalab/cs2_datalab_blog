@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Lab"
-  url = "#demo"
+  url = "lab/"
   weight = 10
 
 #[[main]]
