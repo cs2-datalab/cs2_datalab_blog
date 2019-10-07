@@ -3,7 +3,7 @@ abstract: "Background: The study of the health effects of perceived discriminati
 authors:
 - admin
 - Antonio Rojas-Garcia
-date: "2019-12-01T00:00:00Z"
+date: "2019-12-12T00:00:00Z"
 doi: "10.1186/s12889-019-6714-4"
 featured: false
 image:
@@ -15,7 +15,7 @@ publication: '*BMC Public Health* 19(1)'
 publication_short: "In *BMC Public Health*"
 publication_types:
 - "2"
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2019-12-12T00:00:00Z"
 slides: ""
 summary: The present work aims to analyse the association between multiple discrimination and depressive symptoms in Europe, and the impact of contextual socioeconomic circumstances on this relationship.
 tags:
