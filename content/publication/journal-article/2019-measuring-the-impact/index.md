@@ -1,33 +1,31 @@
 ---
-abstract: 'In this study, we disentangle the complex relationship between structural and intermediary social determinants of health in Andalusia (Spain) after the period of economic downturn, with the aim to understand the factors that might be addressed to reduce future health inequalities in socioeconomically vulnerable regions. Data from the IMPACT-A project were used. Our sample included 1200 individuals randomly selected using a stratified sampling process according to gender, age group and eight provinces in Andalusia (Spain). Structural equation modeling was conducted to test the goodness of fit of our data with the previous theoretical background. Our results indicated that socioeconomic factors and demographics are associated to health by influencing lifestyles, socioeconomic experiences during the crisis, and personal wellbeing. Additionally, several remarkable contributions from the results can be highlighted: (a) important differences in health outcomes were found in Andalusian females, (b) there was no relationship between income and lifestyles, (c) people with unmet medical needs demonstrated a higher perception of social discrimination, and (d) discrimination and happiness had a mediating effect on health. The final model accounts for more than one-third of the variance in health and describes the complex association of social determinants that might be addressed to reduce inequities in health in this region.'
+abstract: "Background: The study of the health effects of perceived discrimination based on ethnic and social traits has a long-standing and widespread tradition in epidemiological research, but less attention has been paid to the study of multiple discrimination, particularly its effects on mental health. The present work aims to analyse the association between multiple discrimination and depressive symptoms in Europe, and the impact of contextual socioeconomic circumstances on this relationship. Methods In this study, data from the 7th Round of the European Social Survey was used. Given that the outcome variable, CES-D8, is a depression scale from 0 to 24 possible values and the hierarchical organisation of individuals (level-1 units) clustered within countries (level-2 units), a linear multilevel model was carried out. Results Our findings suggest that multiple discrimination increases our risk of suffering depressive disorder, but in addition this work provides an important step forward to explain and understand how the relationship between multiple discrimination and depression might vary depending the socioeconomic context. In particular, we can observe that differences in the prevalence of depressive symptoms along multiple discrimination levels decrease as GDP per capita increases among European countries. Conclusion This study is relevant since provides new evidence on how the association between multiple discrimination and depression operates at the micro and macro-level context, which is fundamental to understand how macro-economic fluctuations of countries may determine depressive disorders through the effect of single and combined forms of discrimination."
 authors:
 - admin
-- Maria L Rodero-Cosano
-- Jose A. Salinas-Perez
-- Diego Gomez-Baya
-date: "2019-01-01T00:00:00Z"
-doi: "10.1007/s11205-018-1845-z"
+- Antonio Rojas-Garcia
+date: "2019-04-01T00:00:00Z"
+doi: "10.1186/s12889-019-6714-4"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [impacta]
-publication: '*Social Indicators Research* 141(2):873-893'
-publication_short: "In *Social Indicators Research*"
+projects: [sdoh]
+publication: '*BMC Public Health* 19(1)'
+publication_short: "In *BMC Public Health*"
 publication_types:
 - "2"
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2019-04-01T00:00:00Z"
 slides: ""
-summary: In this study, we disentangle the complex relationship between structural and intermediary social determinants of health in Andalusia (Spain) after the period of economic downturn.
+summary: "The present work aims to analyse the association between multiple discrimination and depressive symptoms in Europe, and the impact of contextual socioeconomic circumstances on this relationship."
 tags:
-- health
-- social determinants of health
-- spain
-title: blabla
+- health behaviour
+- health promotion
+- society
+title: "Measuring the impact of multiple discrimination on depression in Europe"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/content/pdf/10.1007%2Fs11205-018-1845-z.pdf"
+url_pdf: "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6714-4"
 url_poster: ""
 url_project: ""
 url_slides: ""
