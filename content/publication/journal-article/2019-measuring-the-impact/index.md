@@ -17,10 +17,13 @@ publication_types:
 - "2"
 publishDate: "2019-12-12T00:00:00Z"
 slides: ""
-summary: "The present work aims to analyse the association between multiple discrimination and depressive symptoms in Europe, and the impact of contextual socioeconomic circumstances on this relationship."
+summary: "The"
 tags:
--
-title: "Measuring the impact of multiple discrimination on depression in Europe"
+- health
+- methodology
+- health behaviour
+- health promotion
+title: "Measuring"
 url_code: ""
 url_dataset: ""
 url_pdf: "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6714-4"
