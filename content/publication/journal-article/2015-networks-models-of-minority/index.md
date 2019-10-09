@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2015-09-01T00:00:00Z"
 doi: "10.1177/0894439315605607"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
