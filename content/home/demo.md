@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers, and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. Research interests:
+CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. Research interests:
 
 + Social determinants of health
 + Social sustainable development (environment, society and territory)
