@@ -5,7 +5,7 @@ authors:
 - Maria Serrano-Macias
 date: "2017-09-01T00:00:00Z"
 doi: "10.5944/empiria.38.2018.19714"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
