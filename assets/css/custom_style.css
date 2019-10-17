@@ -255,6 +255,7 @@ hr {
 .fooclass img{
   max-width: 25%;
   display: block;
+  margin-left: 20px;
   margin-right: 50px;
   margin-bottom: 25%;
   float: right;
