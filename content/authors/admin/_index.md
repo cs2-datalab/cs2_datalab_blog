@@ -20,7 +20,7 @@ social:
   link: https://scholar.google.es/citations?user=UfF_tycAAAAJ&hl=es&oi=ao
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/gcushen
+#   link: https://github.com/gcushenn
 superuser: true
 user_groups:
 - Principal Investigator
@@ -35,4 +35,3 @@ PhD by the Complutense University of Madrid. Currently I am working as Ramón y 
 + Social Policy
 + Statistics
 + Epidemiology
-
