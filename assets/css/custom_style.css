@@ -257,8 +257,9 @@ hr {
   display: block;
   margin-left: 20px;
   margin-right: 50px;
-  margin-bottom: 25%;
-  float: right;
+  margin-bottom: 0%;
+  float: center;
+  box-shadow: 0 0px 0px;
 }
 
 .fooclass .col-lg-12 {
