@@ -1,8 +1,8 @@
 ---
 authors:
-- vsslledo
-bio: PhD Student focused in new methodologies and computational social science.
-email: "victor.sanz@uca.es"
+- alvaro
+bio: PDH Student. Universidad Complutense de Madrid.
+email: ""
 name: Alvaro Suárez-Vergne
 organizations:
 - name: University Complutense of Madrid
