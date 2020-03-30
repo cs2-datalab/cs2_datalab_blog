@@ -15,7 +15,7 @@ publication: '*Proceedings of The 2nd International Electronic Conference on Env
 publication_short: "In Proceedings 2020, 44(1), 2"
 publication_types:
 - "1"
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2019-11-01T00:00:00Z"
 slides: ""
 summary: "Our initial findings show that the combination of the most adverse contextual conditions (i.e., negative environmental exposure and the absence of health-care provision) combined with extreme social inequalities in health might increase mortality drastically."
 tags:

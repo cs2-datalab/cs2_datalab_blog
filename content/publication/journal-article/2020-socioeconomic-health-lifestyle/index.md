@@ -17,7 +17,7 @@ publication: '*Journal of Community Health*'
 publication_short: "In J Community Health"
 publication_types:
 - "2"
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 slides: ""
 summary: "This research aims to analyse the association between socioeconomic status (SES) and self-rated health (SRH) through its relationship with lifestyle factors, as well as examining these effects stratified by gender and age groups."
 tags:
