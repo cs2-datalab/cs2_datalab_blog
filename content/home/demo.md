@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,7 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = "fooclass"
 +++
-{{< figure library="true" src="cs2_logo.png" title="" lightbox="false" >}}
+
 CS2-DataLab is an **interdisciplinary laboratory** where professors, researchers and MA/MSc/PhD students coming from different disciplines and diverse methodological background tackle similar **social problems** through the use of **computational methods and a complex systems perspective**. CS2 is conceived as an open research facility, which is aimed to **promote computational social research and doctoral training, but also transference activities**. Research interests:
 
 + Social determinants of health
