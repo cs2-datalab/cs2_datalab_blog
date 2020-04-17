@@ -324,3 +324,11 @@ iframe {
 .big-icon {
   color: #E13D3d;
 }
+
+.hero-title {
+    font-size: 150%
+}
+
+.hero-lead {
+    font-size: 100%
+}
