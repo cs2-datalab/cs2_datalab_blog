@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2016-01-01T00:00:00Z"
 doi: "10.1016/j.ssresearch.2015.12.011"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [sdoh]
+projects: [eHealth-mHealth]
 publication: 'International Journal of Environmental Research and Public Health 15(9):1900'
 publication_short: "In *IJERPH*"
 publication_types:
