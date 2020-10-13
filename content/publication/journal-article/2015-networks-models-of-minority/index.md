@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [eHealth-mHealth]
+projects: [css]
 publication: '*Social Science Computer Review* 34(5)'
 publication_short: "In *Social Science Computer Review*"
 publication_types:

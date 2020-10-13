@@ -14,7 +14,7 @@ summary: This project aims to assess the relationship between social media and p
 tags:
 - Health
 - Social Media
-- 
+
 title: eHealth/ mHealth
 url_code: ""
 url_pdf: ""
@@ -22,5 +22,5 @@ url_slides: ""
 url_video: ""
 ---
 
-### Goal 
+### Goal
 This project aims to assess the relationship between social media and public health. As social media captures an increasing portion of our lives, it is becoming an invaluable resource for understanding lifestyle diseases and behaviors on how we manage our health. At the same time, social media modifies our lifestyle.
