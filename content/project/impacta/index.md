@@ -23,7 +23,7 @@ url_video: ""
 
 ## Background
 
-Health inequalities are closely related to variations in social and economic determinants of health. This work is aimed at studying how the economic downturn has affected the relationship between socioeconomic status (SES) and health for Spanish population, and how these changes might explain the emergence of health inequalities in different regions of Spain, with a specific focus in Andalusia.
+Health inequalities are closely related to variations in social and economic determinants of health. This work is aimed at studying how the economic downturn has affected the relationship between socioeconomic status (SES) and health for Spanish population, and how these changes might explain the emergence of health inequalities in different regions of Spain, with a specific focus in .
 
 ## Methods
 
