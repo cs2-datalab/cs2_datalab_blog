@@ -7,7 +7,7 @@ name: Javier Alvarez-Galvez
 organizations:
 - name: University of Cadiz
   url: ""
-role: Research Fellow (Ramon y Cajal)
+role: Senior Research Fellow (Ramon & Cajal)
 social:
 - icon: envelope
   icon_pack: fas
