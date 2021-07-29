@@ -7,7 +7,7 @@ name: Maribel Serrano-Macias
 organizations:
 - name: Pablo de Olavide University
   url: ""
-role: PhD Student
+role: Research Associate (Postdoc)
 social:
 - icon: envelope
   icon_pack: fas
