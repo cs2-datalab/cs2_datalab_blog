@@ -28,10 +28,9 @@ user_groups:
 
 PhD by the Complutense University of Madrid. Currently I am working as Ramón y Cajal Research Fellow in the Department of Biomedicine, Biotechnology and Public Health at the University of Cadiz. I have experience teaching courses related with statistics, quantitative methods, multivariate analysis, data analysis and sociology. My main research interests are related with quantitative research methods, social/health systems, social determinants of health, and sociology. Research interest:
 
-+ Quantitative Social Research
-+ Communication and Media
-+ Applied Mathematics
-+ Public Health
-+ Social Policy
-+ Statistics
-+ Epidemiology
++ Computational Social Science
++ Social/Health Data Science
++ Quantitative Methods
++ Communication and New Media
++ Public Health & Epidemiology
++ Social Science Research
