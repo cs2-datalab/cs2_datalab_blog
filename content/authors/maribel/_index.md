@@ -2,7 +2,7 @@
 authors:
 - maribel
 bio: PhD. Pablo de Olavide University.
-email: ""
+email: "maribelserranomacias@gmail.com"
 name: Maribel Serrano-Macias
 organizations:
 - name: Pablo de Olavide University
