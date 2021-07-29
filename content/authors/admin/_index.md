@@ -26,7 +26,7 @@ user_groups:
 - Principal Investigator
 ---
 
-PhD by the Complutense University of Madrid. Currently I am working as Ramón y Cajal Research Fellow in the Department of Biomedicine, Biotechnology and Public Health at the University of Cadiz. I have experience teaching courses related with statistics, quantitative methods, multivariate analysis, data analysis and sociology. My main research interests are related with quantitative research methods, social/health systems, social determinants of health, and sociology. Research interest:
+PhD by the Complutense University of Madrid. Currently I am working as Ramón y Cajal Research Fellow in the Department of Biomedicine, Biotechnology and Public Health at the University of Cadiz. I have experience teaching courses related with statistics, quantitative methods, multivariate analysis, data analysis and sociology. My main research interests are related with quantitative research methods, social/health systems, social determinants of health, applied health research and social sciences. Research interest:
 
 + Computational Social Science
 + Social/Health Data Science
