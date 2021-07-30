@@ -9,7 +9,7 @@ view: 2
 <img src="cs2_logo.png" alt="logo" width="500" height="500">
 
 ### What is the CS2-DataLab?
-CS2-DataLab is an interdisciplinary laboratory where professors, researchers, and MA/MSc/PhD students
+CS2 DataLab is an interdisciplinary laboratory where professors, researchers, and MA/MSc/PhD students
 coming from different disciplines and diverse methodological background tackle similar social problems
 through the use of computational methods and a complex systems perspective. CS2 is conceived as an
 open research facility, which is aimed to promote computational social research and doctoral training, but
@@ -34,12 +34,13 @@ planning. We also develop research tools to help policy makers and private compa
 issues.
 
 ### Research streams:
-+ Social determinants of health: social inequality and inequity in health
-+ Social sustainable development: environment, society and territory
++ Computational Social Sciences
 + Complex social systems and the emergence of collective phenomena
-+ Computational methods and decision support tool for policy planning
-+ Efficacy and efficiency in health and social service provision
 + Communication, internet, and social networks
++ Social determinants of health: social inequalities in health
++ Decision support tool for policy planning
++ Health service research
 + Digital humanities: digital culture and society
+
 
 ![build](build.png "Our lab")
