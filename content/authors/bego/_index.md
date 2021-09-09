@@ -5,7 +5,7 @@ bio: PhD student in Clinical Medicine and Public Health
 email: "begona.ramos@gm.uca.es"
 name: Begoña Ramos-Fiol
 organizations:
-- name: University of Cadiz
+- name: University of Granada
   url: ""
 role: PhD Student
 social:
