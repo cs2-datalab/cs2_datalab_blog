@@ -11,7 +11,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'href="mailto:john@example.com"'
+  link: 'mailto:begona.ramos@gm.uca.es'
 superuser: false
 user_groups:
 - Researchers
