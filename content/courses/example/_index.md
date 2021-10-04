@@ -14,7 +14,7 @@ type: docs
 weight: 1
 ---
 
-## Flexibility
+## Social network analysis
 
 This feature can be used for publishing content such as:
 
