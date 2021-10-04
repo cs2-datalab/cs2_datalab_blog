@@ -5,10 +5,10 @@ lastmod: "2018-09-09T00:00:00Z"
 linktitle: Social network analysis
 menu:
   example:
-    name: Overview
+    name: Social network analysis
     weight: 1
 summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
-title: Overview
+title: Social network analysis
 toc: true
 type: docs
 weight: 1
