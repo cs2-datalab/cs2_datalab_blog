@@ -2,13 +2,12 @@
 date: "2018-09-09T00:00:00Z"
 draft: true
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: Social network analysis
 menu:
   example:
     name: Overvieww
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
+summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
 title: Overview
 toc: true
 type: docs
