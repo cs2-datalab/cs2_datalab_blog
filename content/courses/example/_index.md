@@ -2,7 +2,7 @@
 date: "2018-09-09T00:00:00Z"
 draft: true
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Overview
+linktitle: An Example Course
 menu:
   example:
     name: Overview
