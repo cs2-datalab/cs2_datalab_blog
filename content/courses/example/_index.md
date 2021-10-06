@@ -2,10 +2,10 @@
 date: "2018-09-09T00:00:00Z"
 draft: true
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Social network analysis
+linktitle: Overview
 menu:
   example:
-    name: Social network analysis
+    name: Overview
     weight: 1
 summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
 title: Overview
