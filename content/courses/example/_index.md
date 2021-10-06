@@ -8,7 +8,7 @@ menu:
     name: Social network analysis
     weight: 1
 summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
-title: Social network analysis
+title: Overview
 toc: true
 type: docs
 weight: 1
