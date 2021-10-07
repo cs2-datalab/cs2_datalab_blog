@@ -1,9 +1,9 @@
 ---
 authors:
-- esthero
-bio: PhD student
+- begorf
+bio: PhD Student
 email: ""
-name: Esther Ortega-Martin
+name: Begoña Ramos-Fiol
 organizations:
 - name: University of Cadiz
   url: ""
@@ -12,9 +12,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: researchgate
+- icon: twitter
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Maria_Esther_Ortega
+  link: https://www.researchgate.net/profile/Begona-Ramos-Fiol
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.es/citations?user=Ezq78D0AAAAJ&hl=es
@@ -26,9 +26,10 @@ user_groups:
 - Researchers
 ---
 
-I am a physiotherapist working at the University Institute of Research in Social Sustainable Development (INDESS) of the University of Cadiz. My research interest are mainly:
+I am a PhD student in the Clinical Medicine and Public Health programme at the University of Granada. My thesis project is about self-care of people with disabilities and how it is affected by multimorbidity. My research interests are mainly:
 
+- Qualitative research
+- Systematic reviews
 - Multimorbidity
-- Physical Rehabilitation
-- Musculoskeletal Disorders
-- Research methodology
+- Disability
+- Public Health
