@@ -7,13 +7,23 @@ menu:
   example:
     name: Overview
     weight: 1
-summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
+summary: Here is a list of the courses we can offer.
 title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
+## List of courses
+
+* Computational methods in social sciences
+* Social network analysis
+* Social network data collection
+* Agent-based modelling
+* Machine learning
+* Text mining and sentiment analysis
+* Data science laboratory
+* Reporting with RMarkdown
 
 <!-- ## Social network analysis
 
