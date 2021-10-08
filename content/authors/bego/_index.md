@@ -12,6 +12,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:begona.ramos@gm.uca.es'
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Begona-Ramos-Fiol
+
+
 superuser: false
 user_groups:
 - Researchers
