@@ -5,17 +5,16 @@ lastmod: "2018-09-09T00:00:00Z"
 linktitle: An Example Course
 menu:
   example:
-    name: Overvieww
+    name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
+summary: Introduction to social networks theory, network data visualisation, structure characterisation, descriptive and centrality measures.
 title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-## Flexibility
+## Social network analysis
 
 This feature can be used for publishing content such as:
 

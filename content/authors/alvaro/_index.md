@@ -20,4 +20,4 @@ user_groups:
 - Researchers
 ---
 
-PDH Student. Universidad Complutense de Madrid
+PDH Student. Universidad Complutense de Madrid.
