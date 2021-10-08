@@ -12,6 +12,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Maria_Esther_Ortega
 superuser: false
 user_groups:
 - Researchers
