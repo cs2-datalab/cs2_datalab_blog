@@ -1,7 +1,7 @@
 ---
 authors:
 - alvaro
-bio: PDH Student. Universidad Complutense de Madrid.
+bio: PDH Student. Universidad Complutense de Madrid
 email: ""
 name: Alvaro Suárez-Vergne
 organizations:
