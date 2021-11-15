@@ -9,7 +9,7 @@ menu:
     weight: 1
 summary: Here is a list of the courses we can offer.
 title: Overview
-toc: true
+toc: false
 type: docs
 weight: 1
 ---
