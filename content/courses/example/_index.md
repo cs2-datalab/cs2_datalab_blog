@@ -2,12 +2,6 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: ""
-menu:
-  example:
-    name: Overview
-    weight: 1
-summary: Here is a list of the courses we can offer.
 title: Overview
 toc: false
 type: notes
