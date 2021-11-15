@@ -2,7 +2,7 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Overview
+linktitle: ""
 menu:
   example:
     name: Overview
@@ -10,7 +10,7 @@ menu:
 summary: Here is a list of the courses we can offer.
 title: Overview
 toc: false
-type: docs
+type: notes
 weight: 1
 ---
 
