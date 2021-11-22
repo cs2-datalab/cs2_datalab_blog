@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "javier.alvarezgalvez@uca.es"
+email = ""
 phone = ""
 address = "Campus de Universidad de Cádiz INDESS 11406 Jerez de la Frontera, Cádiz, España"
 
