@@ -5,7 +5,7 @@ header:
 layout: docs
 title: ""
 ---
-> ## Here is a list of the courses we offer: 
+## Courses 
 > - Computational methods in social sciences
 > - Social network analysis
 > - Social network data collection
