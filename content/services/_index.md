@@ -6,7 +6,7 @@ layout: docs
 title: "Services"
 ---
 
-## Captura y recogida de datos (DATA)
+> ## Captura y recogida de datos (DATA)
     - Trabajo de campo cualitativo y cuantitativo (call center, online)
     - Captura de datos online (web scraping, social media mining)
 
