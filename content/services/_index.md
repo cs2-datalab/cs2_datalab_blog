@@ -4,7 +4,6 @@ header:
   image: ""
 layout: docs
 title: "Services"
-{{ $remote := resources.GetRemote "https://www.example.com/styles.scss" }}
 ---
 
 
