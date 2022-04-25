@@ -6,18 +6,18 @@ layout: docs
 title: "Services"
 ---
 
-> ## Captura y recogida de datos (DATA)
-> - Trabajo de campo cualitativo y cuantitativo (call center, online)
-> - Captura de datos online (web scraping, social media mining)
+> ## Data collection and capture (DATA)
+> - Qualitative and quantitative fieldwork (call center, online)
+> - Online data capture (web scraping, social media mining)
 
 
-> ## Metodología y análisis de datos (ANALYSIS)
-> - Metodología de la investigación (cualitativa): entrevistas, grupos focales.
-> - Metodología de la investigación (cuantitativa): encuestas, análisis multivariante de datos.
+> ## Methodology and data analysis (ANALYSIS)
+> - Research methodology (qualitative): interviews, focus groups.
+> - Research methodology (quantitative): surveys, multivariate data analysis.
 > - Social/Health Data Science, Computational Social Science, and Bioinformatics.
 
 
-> ## Formación (TEACHING)
+> ## Training (TEACHING)
 > - Formación práctica y actualizada sobre temas relacionados con la investigación (metodología, análisis de datos, etc.)
 >
 
