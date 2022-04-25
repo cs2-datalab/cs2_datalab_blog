@@ -3,9 +3,9 @@ header:
   caption: ""
   image: ""
 layout: docs
-title: ""
+title: "Courses"
 ---
-## Courses 
+ 
 > - Computational methods in social sciences
 > - Social network analysis
 > - Social network data collection
