@@ -18,14 +18,14 @@ title: "Services"
 
 
 > ## Training (TEACHING)
-> - Formación práctica y actualizada sobre temas relacionados con la investigación (metodología, análisis de datos, etc.)
+> - Practical and up-to-date training on research-related topics (methodology, data analysis, etc.)
 >
 
 
-> ## Consultoría y asistencia técnica (TECHNICAL ASSISTANCE)	
-> - Evaluación previa y asesoramiento en la redacción de propuestas de proyectos de investigación para investigadores en todas las etapas de su carrera        (proyectos y becas: Horizon, ERC, Ramón y Cajal, Juán de la Cierva,  margarita Salas, Plan Nacional, PAIDI, ITI, en ciencias sociales, humanas y de la      salud.  
-> - Gestión documental y financiera de proyectos
-> - Difusión de resultados de investigación (web, servicios informáticos, organización jornadas, congresos…)
-> - Servicios Informáticos: creación de web gestoras de contenidos, mantenimiento y alojamiento web, plataforma de gestión de datos científicos, APP móvil,    aplicaciones de gestión de proyectos, servidores HPC, entre otros)
-> - Asesoramiento y tramitación de solicitudes de acreditaciones ANECA
-> - Asesoramiento y tramitación de solicitudes de sexenios
+> ## Consulting and technical assistance (TECHNICAL ASSISTANCE)	
+> - Preliminary evaluation and advice on the drafting of research project proposals for researchers at all stages of their career (projects and grants: Horizon, ERC, Ramón y Cajal, Juán de la Cierva, Margarita Salas, Plan Nacional, PAIDI, ITI, in social sciences, humanities and health.  
+> - Documentary and financial management of projects
+> - Dissemination of research results (web, IT services, organization of conferences, congresses...).
+> - IT services: creation of content management websites, maintenance and web hosting, scientific data management platform, mobile APP, project management applications, HPC servers, among others).
+> - Advice and processing of applications for ANECA accreditation.
+> - Advice and processing of applications for sexenios (six-year periods)
