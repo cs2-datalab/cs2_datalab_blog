@@ -5,6 +5,7 @@ header:
 layout: docs
 title: "Services"
 ---
+{{ $remote := resources.GetRemote "https://www.example.com/styles.scss" }}
 
 > ## Data collection and capture (DATA)
 > - Qualitative and quantitative fieldwork (call center, online)
