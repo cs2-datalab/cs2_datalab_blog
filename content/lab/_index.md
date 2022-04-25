@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: "cs2_logo.png"
+  image: ""
 title: ""
 view: 2
 ---
