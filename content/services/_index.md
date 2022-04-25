@@ -12,13 +12,14 @@ title: "Services"
 
 
 > ## Metodología y análisis de datos (ANALYSIS)
-> - Metodología de la investigación (cualitativa): entrevistas, grupos focales,
-> - Metodología de la investigación (cuantitativa): encuestas, análisis multivariante de datos
-> - Social/Health Data Science, Computational Social Science, and Bioinformatics
+> - Metodología de la investigación (cualitativa): entrevistas, grupos focales.
+> - Metodología de la investigación (cuantitativa): encuestas, análisis multivariante de datos.
+> - Social/Health Data Science, Computational Social Science, and Bioinformatics.
 
 
 > ## Formación (TEACHING)
 > - Formación práctica y actualizada sobre temas relacionados con la investigación (metodología, análisis de datos, etc.)
+>
 
 
 > ## Consultoría y asistencia técnica (TECHNICAL ASSISTANCE)	
