@@ -22,7 +22,7 @@ title: "Services"
 >
 
 
-> ## Consulting and technical assistance (TECHNICAL ASSISTANCE)	
+> ## Consulting and technical assistance (ASSISTANCE)	
 > - Preliminary evaluation and advice on the drafting of research project proposals for researchers at all stages of their career (projects and grants: Horizon, ERC, Ramón y Cajal, Juán de la Cierva, Margarita Salas, Plan Nacional, PAIDI, ITI, in social sciences, humanities and health.  
 > - Documentary and financial management of projects
 > - Dissemination of research results (web, IT services, organization of conferences, congresses...).
