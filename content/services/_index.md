@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-layout: services
+layout: docs
 title: "Services"
 ---
 ## Here is a list of the courses we offer: 
