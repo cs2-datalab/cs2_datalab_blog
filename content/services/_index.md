@@ -5,25 +5,23 @@ header:
 layout: docs
 title: "Services"
 ---
-## Here is a list of the courses we offer: 
-* Computational methods in social sciences
-* Social network analysis
-* Social network data collection
-* Agent-based modelling
-* Machine learning
-* Text mining and sentiment analysis
-* Data science laboratory
-* Reporting with RMarkdown
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+## Captura y recogida de datos (DATA)
+	  •Trabajo de campo cualitativo y cuantitativo (call center, online)
+    •Captura de datos online (web scraping, social media mining)
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
+## Metodología y análisis de datos (ANALYSIS)
+	•Metodología de la investigación (cualitativa): entrevistas, grupos focales,
+  •Metodología de la investigación (cuantitativa): encuestas, análisis multivariante de datos
+  •Social/Health Data Science, Computational Social Science, and Bioinformatics
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+## Formación (TEACHING)
+	•Formación práctica y actualizada sobre temas relacionados con la investigación (metodología, análisis de datos, etc.)
+
+## Consultoría y asistencia técnica (TECHNICAL ASSISTANCE)	
+  •Evaluación previa y asesoramiento en la redacción de propuestas de proyectos de investigación para investigadores en todas las etapas de su carrera        (proyectos y becas: Horizon, ERC, Ramón y Cajal, Juán de la Cierva,  margarita Salas, Plan Nacional, PAIDI, ITI, en ciencias sociales, humanas y de la      salud.
+  •Gestión documental y financiera de proyectos
+  •Difusión de resultados de investigación (web, servicios informáticos, organización jornadas, congresos…)
+  •Servicios Informáticos: creación de web gestoras de contenidos, mantenimiento y alojamiento web, plataforma de gestión de datos científicos, APP móvil,    aplicaciones de gestión de proyectos, servidores HPC, entre otros)
+  •Asesoramiento y tramitación de solicitudes de acreditaciones ANECA
+  •Asesoramiento y tramitación de solicitudes de sexenios
