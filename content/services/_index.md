@@ -12,6 +12,7 @@ title: "Services"
 
 
 > ## Metodología y análisis de datos (ANALYSIS)
+> - jsj
     - Metodología de la investigación (cualitativa): entrevistas, grupos focales,
     - Metodología de la investigación (cuantitativa): encuestas, análisis multivariante de datos
     - Social/Health Data Science, Computational Social Science, and Bioinformatics
