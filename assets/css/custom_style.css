@@ -334,3 +334,5 @@ iframe {
 }
 /*Marcos CSS*/
 img { box-shadow: none !important}
+.article-header { background-image: url(https://www.cs2datalab.com/img/headers/code_slider.jpg);}
+.article-banner { }
