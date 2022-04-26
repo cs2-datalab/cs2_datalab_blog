@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: headers/services.jpg
+  image: headers/code_slider.jpg
   class: "services"
 layout: docs
 title: "Services"
