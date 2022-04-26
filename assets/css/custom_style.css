@@ -336,3 +336,4 @@ iframe {
 img { box-shadow: none !important}
 .article-header { background-image: url(https://www.cs2datalab.com/img/headers/code_slider.jpg); height: 300px}
 .article-banner { }
+.article-header img {display: none}
