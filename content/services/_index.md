@@ -3,7 +3,6 @@ header:
   caption: "[W]eak ties … are here seen as indispensable to individuals’ opportunities and to their integration into communities; strong ties, breeding local cohesion, lead to overall fragmentation. M. Granovetter (1973)"
   image: ""
 layout: docs
-headless = false
 title: "Services"
 ---
 
