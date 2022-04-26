@@ -6,7 +6,7 @@ title: ""
 view: 2
 ---
 
-<img src="cs2_logo.png" alt="logo" width="500" height="500">
+<img src="cs2_logo.png" class="" alt="logo" width="500" height="500">
 
 ### What is the CS2-DataLab?
 CS2 DataLab is an interdisciplinary laboratory where professors, researchers, and MA/MSc/PhD students

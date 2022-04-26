@@ -1,16 +1,16 @@
 ---
 header:
   caption: ""
-  image: ""
+  image: headers/courses.jpg
 layout: docs
-title: ""
+title: "Courses"
 ---
-## Here is a list of the courses we offer: 
-* Computational methods in social sciences
-* Social network analysis
-* Social network data collection
-* Agent-based modelling
-* Machine learning
-* Text mining and sentiment analysis
-* Data science laboratory
-* Reporting with RMarkdown
+ 
+> - Computational methods in social sciences
+> - Social network analysis
+> - Social network data collection
+> - Agent-based modelling
+> - Machine learning
+> - Text mining and sentiment analysis
+> - Data science laboratory
+> - Reporting with RMarkdown
