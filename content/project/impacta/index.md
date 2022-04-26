@@ -9,7 +9,7 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# slides: 
+# slides: example
 summary: The present work studies the changes in socioeconomic determinants of health and analyzes the evolution in this relationship for the period 2005–2014 in Spain.
 tags:
 - Health
