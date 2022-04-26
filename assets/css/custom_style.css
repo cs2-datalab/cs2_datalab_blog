@@ -334,6 +334,11 @@ iframe {
 }
 /*Marcos CSS*/
 img { box-shadow: none !important}
-.article-header { background-image: url(https://www.cs2datalab.com/img/headers/code_slider.jpg); height: 300px}
-.article-banner { }
+.article-header {
+    background-image: url(https://www.cs2datalab.com/img/headers/code_slider.jpg);
+    height: 210px;
+    background-position: center !important;
+    background-size: 100% !important;
+    background-repeat: no-repeat !important;
+}
 .article-header img {display: none !important}
