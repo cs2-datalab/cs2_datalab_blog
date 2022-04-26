@@ -3,7 +3,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: "aa"
-  focal_point: Top
+  focal_point: buttom
 # links:
 # - icon: twitter
 #   icon_pack: fab
