@@ -334,7 +334,7 @@ iframe {
 }
 /*Marcos CSS*/
 img { box-shadow: none !important}
-.article-header .services {
+.article-header.services {
    background-color: rgb(225, 61, 61);
    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.cs2datalab.com/services/services3.jpg");
    min-height: 253px;
@@ -343,7 +343,7 @@ img { box-shadow: none !important}
    background-repeat: no-repeat !important;
 }
 
-.article-header .services {
+.article-header.services {
    background-color: rgb(225, 61, 61);
    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.cs2datalab.com/courses/courses.jpg");
    min-height: 253px;
