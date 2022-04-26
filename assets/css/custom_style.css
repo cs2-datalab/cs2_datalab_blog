@@ -336,7 +336,7 @@ iframe {
 img { box-shadow: none !important}
 .article-header {
    background-color: rgb(225, 61, 61);
-   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cs2datalab.com/img/headers/code_slider.jpg");
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cs2datalab.com/services/services3.jpg");
    min-height: 253px;
    background-position: center !important;
    background-size: 100% !important;
