@@ -10,7 +10,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # slides: example
-summary: .
+summary: aa.
 tags:
 - Health
 - Social Determinants
