@@ -4,6 +4,7 @@ header:
   caption: ""
   image: ../project/dcodes/proyecto_nuevo_dcodes_project.jpg
   class: "courses"
+  preview_only: true
 image:
   preview_only: true
 layout: docs
