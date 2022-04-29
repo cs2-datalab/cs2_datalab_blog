@@ -1,11 +1,10 @@
 ---
 date: "2021-04-27T00:00:00Z"
 header:
-  caption: ""
-  image: headers/code_slider.jpg
-  class: "courses"
-layout: docs
+  caption: ""  
+layout: pub
 title: "Courses"
+external_link: ""
 
 # links:
 # - icon: twitter
