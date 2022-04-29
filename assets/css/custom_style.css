@@ -350,9 +350,11 @@ img { box-shadow: none !important}
    background-position: center !important;
    background-size: 100% !important;
    background-repeat: no-repeat !important;
-   height: 253px;
-   contain: content;
+  
 }
-
+.article-header { 
+	height: 253px;
+	contain: content;
+}
 /*.article-header img {display: none !important}*/
 
