@@ -4,7 +4,7 @@ external_link: ""
 image:
   placement: 1
   caption: "Photo by [Geo](https://github.com/gcushen/)"
-  focal_point: "Center"
+  focal_point: "BottomLeft"
   preview_only: false
 # links:
 # - icon: twitter
