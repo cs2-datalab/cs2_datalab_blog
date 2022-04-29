@@ -2,8 +2,8 @@
 date: "2021-04-27T00:00:00Z"
 external_link: ""
 image:
-  placement: 1
-  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  placement: 2
+  caption: ""
   focal_point: "BottomLeft"
   preview_only: false
 # links:
