@@ -2,9 +2,14 @@
 date: "2021-04-27T00:00:00Z"
 header:
   caption: ""  
-layout: pub
+layout: docs
 title: "Courses"
 external_link: ""
+image:
+  placement: 2
+  caption: ""
+  focal_point: "BottomLeft"
+  preview_only: false
 # links:
 # - icon: twitter
 #   icon_pack: fab
