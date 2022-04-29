@@ -2,7 +2,7 @@
 date: "2021-04-27T00:00:00Z"
 header:
   caption: ""
-  image: ../courses/courses.jpg
+  image: ../project/dcodes/proyecto_nuevo_dcodes_project.jpg
   class: "courses"  
 layout: docs
 title: "Courses"
