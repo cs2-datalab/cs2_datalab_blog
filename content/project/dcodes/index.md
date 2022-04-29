@@ -24,7 +24,3 @@ url_video: ""
 ---
 
 ## Background
-design:
-  background:
-    # Name of image in `assets/media/`.
-    image: featured.jpg
