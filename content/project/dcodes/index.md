@@ -3,7 +3,7 @@ date: "2021-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: ""
-  focal_point: Top
+  focal_point: left
 # links:
 # - icon: twitter
 #   icon_pack: fab
