@@ -1,7 +1,9 @@
 ---
 date: "2021-04-27T00:00:00Z"
 header:
-  caption: ""  
+  caption: ""
+  image: ../courses/courses.jpg
+  class: "courses"  
 layout: docs
 title: "Courses"
 external_link: ""
