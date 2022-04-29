@@ -1,11 +1,12 @@
 ---
 date: "2021-04-27T00:00:00Z"
-image:
-  placement: 2
+header:
   caption: ""
-  focal_point: "BottomLeft"
-  preview_only: false
-external_link: ""
+  image: headers/code_slider.jpg
+  class: "courses"
+layout: docs
+title: "Courses"
+
 # links:
 # - icon: twitter
 #   icon_pack: fab
