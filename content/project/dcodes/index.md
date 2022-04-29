@@ -5,11 +5,7 @@ design:
   background:
     # Name of image in `assets/media/`.
     image: featured.jpg
-image:
-  placement: 2
-  caption: ""
-  focal_point: "BottomLeft"
-  preview_only: false
+
 # links:
 # - icon: twitter
 #   icon_pack: fab
