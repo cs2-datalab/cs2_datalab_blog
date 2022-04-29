@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: courses.jpg
+  image: ../courses.jpg
   class: "courses"
 layout: docs
 title: "Courses"
