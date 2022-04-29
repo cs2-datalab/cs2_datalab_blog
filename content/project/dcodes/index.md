@@ -3,7 +3,9 @@ date: "2021-04-27T00:00:00Z"
 header:
   caption: ""
   image: ../project/dcodes/proyecto_nuevo_dcodes_project.jpg
-  class: "courses"  
+  class: "courses"
+image:
+  preview_only: true
 layout: docs
 title: "Courses"
 external_link: ""
