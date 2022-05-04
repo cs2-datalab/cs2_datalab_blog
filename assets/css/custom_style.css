@@ -361,5 +361,16 @@ img { box-shadow: none !important}
    height: 253px;
    contain: content;
 }
+@media (max-width: 800px) {
+ .article-header { 
+   background-color: rgb(225, 61, 61);   
+   background-position: center !important;
+   background-size: 100% !important;
+   background-repeat: no-repeat !important;
+   height: 253px;
+   contain: content;
+}
+}
+
 /*.article-header img {display: none !important}*/
 
