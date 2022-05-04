@@ -366,10 +366,8 @@ img { box-shadow: none !important}
    background-color: rgb(225, 61, 61);   
    background-position: center !important;
    background-size: 100% !important;
-   background-repeat: no-repeat !important;
-   height: 253px;
-   contain: content;
-}
+   background-repeat: no-repeat !important;  
+ }
 }
 
 /*.article-header img {display: none !important}*/
