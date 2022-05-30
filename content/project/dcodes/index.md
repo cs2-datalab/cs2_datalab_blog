@@ -15,13 +15,13 @@ external_link: ""
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # slides: example
-summary: Collective dynamics of health opinion contagion: the COVID-19 infodemic and its effects on decision making processes.
+summary: Collective dynamics of health opinion contagion: the COVID-19 infodemic and its effects on decision making processes
 tags:
 - health
 - Social Media
 title: "DCODES"
 url_code: ""
-url_pdf: "https://www.centrodeestudiosandaluces.es/datos/publicaciones/Actualidad77.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
