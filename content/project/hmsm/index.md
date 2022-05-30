@@ -1,5 +1,9 @@
 ---
 date: "2016-04-27T00:00:00Z"
+caption: ""
+  image: ../project/dcodes/proyecto_HMSM_project.jpg
+  class: "courses"
+  preview_only: true
 external_link: ""
 image:
   caption: ""
