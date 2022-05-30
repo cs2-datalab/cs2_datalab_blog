@@ -8,7 +8,6 @@ header:
 image:
   preview_only: true
 layout: docs
-title: "Courses"
 external_link: ""
 # links:
 # - icon: twitter
@@ -19,7 +18,6 @@ external_link: ""
 summary: Collective dynamics of health opinion contagion: the COVID-19 infodemic and its effects on decision making processes.
 tags:
 - Social Media
-- 
 title: DCODES
 url_code: ""
 url_pdf: "https://www.centrodeestudiosandaluces.es/datos/publicaciones/Actualidad77.pdf"
