@@ -5,10 +5,10 @@ header:
   image: ../project/dcodes/proyecto_HMSM_project.jpg
   class: "courses"
   preview_only: true
-external_link: ""
 image:
-  caption: ""
-  focal_point: Top
+  preview_only: true
+layout: docs
+external_link: ""
 # links:
 # - icon: twitter
 #   icon_pack: fab
