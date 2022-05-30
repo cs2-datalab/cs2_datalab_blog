@@ -1,12 +1,11 @@
 ---
 date: "2021-04-27T00:00:00Z"
+image:
+  preview_only: true
 header:
   caption: ""
   image: ../project/dcodes/proyecto_nuevo_dcodes_project.jpg
-  class: "courses"
-  preview_only: true
-image:
-  preview_only: true
+  class: "courses" 
 layout: docs
 external_link: ""
 # links:
@@ -29,3 +28,4 @@ url_video: ""
 
 ### Background
 s
+---
