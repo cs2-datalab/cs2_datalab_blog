@@ -17,6 +17,7 @@ external_link: ""
 # slides: example
 summary: Collective dynamics of health opinion contagion: the COVID-19 infodemic and its effects on decision making processes.
 tags:
+- health
 - Social Media
 title: DCODES
 url_code: ""
