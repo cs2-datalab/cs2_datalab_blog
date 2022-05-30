@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 header:
   caption: ""
-  image: ../project/hmsm/proyecto_HMSM_project.jpg
+  image: "../project/hmsm/proyecto_HMSM_project.jpg"
   class: "courses"
   preview_only: true
 image:
