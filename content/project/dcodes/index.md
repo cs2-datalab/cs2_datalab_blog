@@ -19,7 +19,7 @@ summary: Collective dynamics of health opinion contagion: the COVID-19 infodemic
 tags:
 - health
 - Social Media
-title: DCODES
+title: "DCODES"
 url_code: ""
 url_pdf: "https://www.centrodeestudiosandaluces.es/datos/publicaciones/Actualidad77.pdf"
 url_slides: ""
