@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 header:
   caption: ""
-  image: "../project/impacta/proyecto_IMPACTA_project.jpg"
+  image: "../project/impacta/proyecto_IMPACTA_project2.jpg"
   class: "courses"
   preview_only: true
 image:
