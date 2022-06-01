@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 header:
   caption: ""
-  image: "../project/miss/proyecto_MISS_project.jpg"
+  image: "../project/miss/proyecto_MISS_project2.jpg"
   class: "courses"
   preview_only: true
 image:
