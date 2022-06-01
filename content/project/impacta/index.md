@@ -1,9 +1,13 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: ""
-image:
+header:
   caption: ""
-  focal_point: Top
+  image: "../project/impacta/proyecto_IMPACTA_project.jpg"
+  class: "courses"
+  preview_only: true
+image:
+  preview_only: true
+external_link: ""
 # links:
 # - icon: twitter
 #   icon_pack: fab
