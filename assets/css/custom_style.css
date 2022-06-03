@@ -362,7 +362,7 @@ img { box-shadow: none !important}
    height: 253px;
    contain: content;
  }
-.article-header img { object-fit: cover; height: 253px }
+.article-header img { object-fit: cover !important; height: 253px !important; }
 }
 
 @media (max-width: 800px) {
