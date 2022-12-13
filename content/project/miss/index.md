@@ -15,6 +15,10 @@ external_link: ""
 #   url: https://twitter.com/georgecushen
 # slides: example
 summary: Methodological Innovations in Social Sciences
+tags:
+- health
+- Methodology
+- Data science
 title: MISS
 url_code: ""
 url_pdf: ""
