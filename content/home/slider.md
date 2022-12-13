@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "[W]eak ties ... are here seen as indispensable to individuals' opportunities and to their integration into communities; strong ties, breeding local cohesion, lead to overall fragmentation."
-  content = "M. Granovetter (1973)"
+  content = "Mark Granovetter"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
